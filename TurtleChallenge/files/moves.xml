@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--This sequence is execute. For execute the other uncomment.-->
+
+<Settings>
+  <add key="sequence" value="m,r,m,m,r,m,m,r,r,r,m" />
+  <add key="sequence1" value="m,m,m,r,m,m" />
+</Settings>
+

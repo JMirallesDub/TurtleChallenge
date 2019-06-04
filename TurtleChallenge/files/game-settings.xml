@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <add key="boardWidth" value="5" />
+  <add key="boardHeight" value="4" />
+  <add key="start" value="0,1" />
+  <add key="exit" value="4,2" />
+  <add key="initialDirection" value="North" />
+  <Items xmlns="urn:PointSeries-schema">
+    <Point x="1" y="1"/>
+    <Point x="3" y="1"/>
+    <Point x="3" y="3" />
+  </Items>
+</Settings>
